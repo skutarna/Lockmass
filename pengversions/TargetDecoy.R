@@ -1,7 +1,7 @@
 ###################
 #this script is used for Target-Decoy Search and untargeted chemical analysis
 ###Hui, 20170921
-
+#Steven
 ####################for drinking water, cpp funtion, the oxygen number could be 1.2*carbon+3, cutoff e5, S/N>5, change is.BrCl
 library(xcms)
 library(MassSpecWavelet)
